@@ -1,0 +1,39 @@
+.margin-top-80 {
+	margin-top: 80px;
+}
+
+.container {
+	padding: 20px;
+}
+
+.box {
+	font-family: serif;
+	background-color: white;
+	padding: 20px;
+}
+
+.box h1 {
+	font-family: serif;
+	font-size: 30px;
+	color: #00b3b3;
+	font-weight: bold;
+}
+
+.Latitude {
+	font-family: serif;
+	font-size: 20px;
+	color: white;
+	background-color: #00b3b3;
+	height: 40px;
+	padding: 5px;
+	text-decoration: none;
+	justify-content: flex-start;
+}
+
+.navbar {
+	background-color: white
+}
+
+.hr {
+	padding: 20px;
+}
