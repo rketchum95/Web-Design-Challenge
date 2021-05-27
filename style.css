@@ -10,6 +10,7 @@
 	font-family: serif;
 	background-color: white;
 	padding: 20px;
+	height: 400px;
 }
 
 .box h1 {
@@ -37,3 +38,5 @@
 .hr {
 	padding: 20px;
 }
+
+
